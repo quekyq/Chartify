@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply min-h-screen text-white;
+    background: linear-gradient(0deg, rgba(80,0,156,1) 0%, rgba(1,0,37,1) 71%);
+  }
+}
+
+/* Apply fonts */
+.font-title {
+  font-family: 'Italiana', serif;
+}
+
+.font-body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300; /* Light weight */
+}
