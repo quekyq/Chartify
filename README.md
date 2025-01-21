@@ -50,10 +50,10 @@ npm start
 
 ---
 ### Technologies Used
-Frontend: Vite, React.js, Tailwind CSS, Shadcn UI
-Backend: Node.js, Express.js
-Database: PostgreSQL
-APIs: LRCLIB API, Spotify API
+- **Frontend**: Vite, React.js, Tailwind CSS, Shadcn UI
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL
+- **APIs**: LRCLIB API, Spotify API
 
 ### Acknowledgements
 Data is sourced from Kaggle, Spotify and LRCLIB.
